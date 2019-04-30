@@ -1,6 +1,7 @@
 .idea/
 python_*
 *.iml
+env
 
 lyrics.txt
 wakati_lyrics.txt
